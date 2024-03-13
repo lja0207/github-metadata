@@ -79,10 +79,10 @@ The following sample information is exposed to Jekyll templates in the `site.git
       "name": "MIT License",
       "spdx_id": "MIT",
       "url": "https://api.github.com/licenses/mit"
-    },
-    "source": {
-      "branch": "gh-pages",
-      "path": "/"
-    }
+     }, 
+ "출처": { 
+ "분기": "gh-pages", 
+ "경로": "/" 
+     } 
 }
 ```
